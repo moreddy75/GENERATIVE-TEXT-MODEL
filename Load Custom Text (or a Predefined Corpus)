@@ -1,0 +1,9 @@
+# You can replace this with any topic-related corpus (e.g., tech articles)
+data = """
+Technology is evolving rapidly. Artificial intelligence and machine learning 
+are transforming the way we work and live. The Internet of Things connects 
+devices across the world. Automation is becoming more common in industries. 
+Quantum computing promises to revolutionize data processing.
+"""
+
+corpus = data.lower().split("\n")
